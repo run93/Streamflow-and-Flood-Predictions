@@ -1,4 +1,4 @@
-# Hydro Deep Learning
+# Streamflow and Flood Predictions
 Deep Learning (LSTM/GRU) Models with Data for Streamflow Forecasting
 
 ## Data
